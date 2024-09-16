@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Genomics and Evolutionary Genomics
 - 🌱 I’m currently learning Machine Learning application to Genomics
 - 💞️ I’m looking to collaborate on Gene annotation and finding pathogenic variants to predict genetic disease
-- 📫 How to reach me minju.kim@icahn.mssm.edu
+- 📫 How to reach me mkim186@fordham.edu
 
 <!---
 doublehelix1859/doublehelix1859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
